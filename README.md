@@ -1,0 +1,1 @@
+My code is not always commented in detail. So please feel free to email me for clarification on any code. [My website](https://nathanlgabriel.github.io/) should always have an up to date email for contacting me.
